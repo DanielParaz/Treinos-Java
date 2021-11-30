@@ -1,10 +1,5 @@
-                                       ## Thats just me training Java nothing much :man_student:
+## Just me Practicing Java Basics! :man_student:
 
 
 
-
-
-
-
-
-
+Hopefully I will be fluent in Java!
