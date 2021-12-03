@@ -29,9 +29,7 @@ public class ExerciciosQueue {
 
         nomes.add("Daniel");
 
-        int quantidadefila = nomes.size();
-
-        System.out.println("Daniel entrou na posição " + quantidadefila + "º");
+        System.out.println("Daniel entrou na posição " + nomes.size() + "º");
 
         System.out.println(nomes);
 
