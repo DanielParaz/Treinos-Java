@@ -1,5 +1,6 @@
 package maps;
 
+import java.util.Collections;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -50,6 +51,8 @@ public class ExerciciosMapTree {
         System.out.println(estadosbrasileiros.containsKey("SC"));
 
         System.out.println(estadosbrasileiros.containsValue("Maranhao"));
+
+
 
 
     }
