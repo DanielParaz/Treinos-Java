@@ -11,6 +11,7 @@ public class ExerciciosLinkedHashSet {
         numeros.add(20);
         numeros.add(44);
         numeros.add(30);
+        numeros.add(30);
 
         System.out.println(numeros);
 
